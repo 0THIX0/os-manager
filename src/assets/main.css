@@ -1,0 +1,11 @@
+/* src/renderer/src/assets/main.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Montserrat", sans-serif';
+    src: url('./fonts/Montserrat-VariableFont_wght.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
